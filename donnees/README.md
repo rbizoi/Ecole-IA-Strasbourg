@@ -43,14 +43,18 @@ Analyze ~500,000 food reviews from Amazon
 recherche des données sur **Kaggle** :
 >> https://www.kaggle.com/datasets?search=nlp&sort=votes
 
-Amazon Reviews for Sentiment Analysis
+**Amazon Reviews for Sentiment Analysis**
+A few million Amazon reviews in fastText format
 >> https://www.kaggle.com/bittlingmayer/amazonreviews
 
-New York Times Comments <br>
+**New York Times Comments**
+Comments on articles published in the New York Times
 >> https://www.kaggle.com/aashita/nyt-comments
 
-COVID-19 Open Research Dataset Challenge (CORD-19)
+**COVID-19 Open Research Dataset Challenge (CORD-19)**
+An AI challenge with AI2, CZI, MSR, Georgetown, NIH & The White House
 >> https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge
 
-350 000+ movies from themoviedb.org
+**350 000+ movies from themoviedb.org**
+More than 350k movies and main casting/crew up to Aug17
 >> https://www.kaggle.com/stephanerappeneau/350-000-movies-from-themoviedborg
