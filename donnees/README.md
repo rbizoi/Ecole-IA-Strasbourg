@@ -27,7 +27,7 @@ Explore nutrition facts from foods around the world
 Attention taille 963M
 >> https://www.kaggle.com/openfoodfacts/world-food-facts/notebooks?sortBy=voteCount&group=everyone&pageSize=20&datasetId=20
 
-**Amazon Fine Food Reviews
+**Amazon Fine Food Reviews**
 Analyze ~500,000 food reviews from Amazon
 
 
