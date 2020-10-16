@@ -15,7 +15,8 @@
 
 
 
-# NLP
+# Traitement naturel du langage -- Natural Language Processing (NLP)
 https://www.kaggle.com/bittlingmayer/amazonreviews
 
-https://www.kaggle.com/aashita/nyt-comments
+New York Times Comments <br>
+>> https://www.kaggle.com/aashita/nyt-comments
