@@ -99,6 +99,7 @@
 >>>> https://www.kaggle.com/bittlingmayer/amazonreviews
 >>## **New York Times Comments**<br>
 >>Comments on articles published in the New York Times<br>
+>><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/nyt.png" width="512"><br>
 >>>> https://www.kaggle.com/aashita/nyt-comments
 >>## **COVID-19 Open Research Dataset Challenge (CORD-19)**<br>
 >>An AI challenge with AI2, CZI, MSR, Georgetown, NIH & The White House<br>
