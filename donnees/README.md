@@ -120,3 +120,9 @@ Learn computer vision fundamentals with the famous MNIST data<br>
 <img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/breast-cancer.jpg" width="512">
 
 >> https://www.kaggle.com/paultimothymooney/breast-histopathology-images
+
+**Cat and Dog**<br>
+Cats and Dogs dataset to train a DL model<br>
+<img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/cat-dog.png" width="512">
+
+>> https://www.kaggle.com/tongpython/cat-and-dog
