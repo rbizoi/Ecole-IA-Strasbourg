@@ -66,10 +66,6 @@ Share code and data to improve ride time predictions<br>
 <img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/nyc-bike-map.png" width="512"><br>
 >> https://www.kaggle.com/roundedup/new-york-citi-bike-trip-duration
 
-
-
-
-
 # Les données
 ## **Open Food Facts**
 Explore nutrition facts from foods around the world<br>
@@ -83,10 +79,10 @@ Analyze ~500,000 food reviews from Amazon<br>
 >> https://www.kaggle.com/snap/amazon-fine-food-reviews
 
 # Les series temporelles
-## **Household Electric Power Consumption**<br>
-time series analysis- regression / clustering<br>
-<img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/energy.jpg" width="512"><br>
->> https://www.kaggle.com/uciml/electric-power-consumption-data-set
+>> ## **Household Electric Power Consumption**<br>
+>> time series analysis- regression / clustering<br>
+>> <img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/energy.jpg" width="512"><br>
+>>> https://www.kaggle.com/uciml/electric-power-consumption-data-set
 
 ## **Air Quality in Madrid (2001-2018)**<br>
 Different pollution levels in Madrid from 2001 to 2018<br>
