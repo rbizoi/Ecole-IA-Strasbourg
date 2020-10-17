@@ -5,7 +5,8 @@
 ## Google Dataset Search
 >> https://datasetsearch.research.google.com/
 ## Portail européen de données
->> https://www.europeandataportal.eu/fr
+>><a href="https://www.europeandataportal.eu/fr"><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/drapeau_UE.jpg" width="512" alt="recherche"/></a>
+>>>> https://www.europeandataportal.eu/fr
 ## Strasbourg portail de données
 >> https://www.cts-strasbourg.eu/fr/portail-open-data
 ## Nasa
