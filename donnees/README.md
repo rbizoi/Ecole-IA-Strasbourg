@@ -79,6 +79,7 @@ Attention taille 963M<br>
 
 ## **Amazon Fine Food Reviews**<br>
 Analyze ~500,000 food reviews from Amazon<br>
+<img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/amazon_fine_food.jpeg" width="512"><br>
 >> https://www.kaggle.com/snap/amazon-fine-food-reviews
 
 # Les series temporelles
