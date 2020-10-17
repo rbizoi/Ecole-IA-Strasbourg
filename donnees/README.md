@@ -9,9 +9,10 @@ Start here! Predict survival on the Titanic and get familiar with ML basics<br>
 >> https://www.kaggle.com/c/titanic
 
 
-**House Prices: Advanced Regression Techniques**
-Predict sales prices and practice feature engineering, RFs, and gradient boosting
+**House Prices: Advanced Regression Techniques**<br>
+Predict sales prices and practice feature engineering, RFs, and gradient boosting<br>
 <img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/House-Prices.png" width="512">
+
 >> https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
 
