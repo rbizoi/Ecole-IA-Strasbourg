@@ -9,18 +9,18 @@
 >>>> https://www.kaggle.com/c/titanic <br>
 >>## House Prices: Advanced Regression Techniques
 >>Predict sales prices and practice feature engineering, RFs, and gradient boosting<br>
->><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/House-Prices.png" width="512"><br>
+>><a href="https://www.kaggle.com/c/house-prices-advanced-regression-techniques"><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/House-Prices.png" width="512" alt="House Prices"/></a>
 >>>> https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 >>## Digit Recognizer
 >>Learn computer vision fundamentals with the famous MNIST data<br>
->><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/mnist.png" width="512"><br>
+>><a href="https://www.kaggle.com/c/digit-recognizer"><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/mnist.png" width="512" alt="Digit Recognizer"/></a>
 >>>> https://www.kaggle.com/c/digit-recognizer/data
 >>## Mushroom Classification
 >>Safe to eat or deadly poison?<br>
 >><table>
 >> <tr>                                                                                   
->>     <th><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/champignon.jpg" width="256"></th>
->>     <th><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/champignon02.jpg" width="256"></th>
+>>     <th href=https://www.kaggle.com/uciml/mushroom-classification><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/champignon.jpg" width="256"></th>
+>>     <th href=https://www.kaggle.com/uciml/mushroom-classification><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/champignon02.jpg" width="256"></th>
 >> </tr>
 >></table>
 >>>> https://www.kaggle.com/uciml/mushroom-classification
