@@ -101,7 +101,7 @@
 >>>> https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data
 >>## 30 Years of European Solar Generation
 >>Hourly energy potential for 1986-2015<br>
->>>><a href="https://www.kaggle.com/sohier/30-years-of-european-solar-generation"><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/solar-power.jpeg" width="512" alt="Climate Change"/></a>
+>><a href="https://www.kaggle.com/sohier/30-years-of-european-solar-generation"><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/solar-power.jpeg" width="512" alt="Climate Change"/></a>
 >>>> https://www.kaggle.com/sohier/30-years-of-european-solar-generation
 # Les données analyse
 >>## Open Food Facts
