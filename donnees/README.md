@@ -1,6 +1,18 @@
-# Recherche des données sur ``Kaggle`` :<br>
+# Recherche des données
+## ``Kaggle``
 >><a href="https://www.kaggle.com/datasets?search=nlp&sort=votes"><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/kaggle.png" width="512" alt="recherche"/></a>
 >>>> https://www.kaggle.com/datasets
+## Google Dataset Search
+>> https://datasetsearch.research.google.com/
+## Portail européen de données
+>> https://www.europeandataportal.eu/fr
+## Strasbourg portail de données
+>> https://www.cts-strasbourg.eu/fr/portail-open-data
+## Nasa
+>> https://disc.gsfc.nasa.gov/datasets/
+## US AIR Now l Time Air Quality REST API
+>> https://www.airnow.gov/
+>> https://docs.airnowapi.org/
 # Les jeux des données d’apprentissage
 >>## Iris Species
 >>Classify iris plants into three species in this classic dataset<br>
@@ -87,6 +99,10 @@
 >>Exploring global temperatures since 1750<br>
 >><a href="https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data"><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/climat-change.png" width="512" alt="Climate Change"/></a>
 >>>> https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data
+>>## 30 Years of European Solar Generation
+>>Hourly energy potential for 1986-2015<br>
+>>>><a href="https://www.kaggle.com/sohier/30-years-of-european-solar-generation"><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/solar-power.jpeg" width="512" alt="Climate Change"/></a>
+>>>> https://www.kaggle.com/sohier/30-years-of-european-solar-generation
 # Les données analyse
 >>## Open Food Facts
 >>Explore nutrition facts from foods around the world<br>
