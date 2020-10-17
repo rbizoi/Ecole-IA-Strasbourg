@@ -151,6 +151,10 @@
 >>Cats and Dogs dataset to train a DL model<br>
 >><a href="https://www.kaggle.com/tongpython/cat-and-dog"><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/cat-dog.png" width="512" alt="Cat and Dog"/></a>
 >>>> https://www.kaggle.com/tongpython/cat-and-dog
+>>## Keras Pretrained models
+>>This dataset helps to use pretrained keras models in Kernels.
+>><a href="https://www.kaggle.com/gaborfodor/keras-pretrained-models"><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/keras.jpeg" width="512" alt="Cat and Dog"/></a>
+>>>>https://www.kaggle.com/gaborfodor/keras-pretrained-models
 # Genome
 >>## Genome Information For Sequenced Organisms
 >>taxonomy, statistics and dna sequence links for species with sequenced genomes
@@ -158,6 +162,16 @@
 >>## Drosophila Melanogaster Genome
 >>Explore the annotated genome of the common fruit fly
 >>>> https://www.kaggle.com/mylesoneill/drosophila-melanogaster-genome
+# Astronomie
+>>## Exoplanet Hunting in Deep Space
+>>Kepler labelled time series data
+>>>>https://www.kaggle.com/keplersmachines/kepler-labelled-time-series-data
+>>## Asteroid Dataset
+>>NASA JPL Asteroid Dataset
+https://www.kaggle.com/sakhawat18/asteroid-dataset
+>>## SETI Data
+>>Simulated Signal Data for Machine Learning
+>>>>https://www.kaggle.com/tentotheminus9/seti-data
 # Autres
 >>## National Health and Nutrition Examination Survey
 >>NHANES datasets from 2013-2014
