@@ -95,6 +95,7 @@
 >>>> https://www.kaggle.com/datasets?search=nlp&sort=votes
 >>## **Amazon Reviews for Sentiment Analysis**<br>
 >>A few million Amazon reviews in fastText format<br>
+>><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/sentiment-analysis.png" width="512"><br>
 >>>> https://www.kaggle.com/bittlingmayer/amazonreviews
 >>## **New York Times Comments**<br>
 >>Comments on articles published in the New York Times<br>
