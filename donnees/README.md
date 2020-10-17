@@ -107,6 +107,7 @@
 >>>> https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge
 >>## 350 000+ movies from themoviedb.org<br>
 >>More than 350k movies and main casting/crew up to Aug17<br>
+>><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/movies.png" width="512"><br>
 >>>> https://www.kaggle.com/stephanerappeneau/350-000-movies-from-themoviedborg
 # Deep Learning CNN
 >>## **Digit Recognizer**<br>
