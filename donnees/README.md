@@ -50,9 +50,18 @@ Anonymized credit card transactions labeled as fraudulent or genuine<br>
 >> https://www.kaggle.com/mlg-ulb/creditcardfraud
 
 # Régressions
-## **Avocado Prices**
-Historical data on avocado prices and sales volume in multiple US markets
+## **Avocado Prices**<br>
+Historical data on avocado prices and sales volume in multiple US markets<br>
+<img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/avocado.jpg" width="512"><br>
 >> https://www.kaggle.com/neuromusic/avocado-prices
+
+
+## New York City Taxi Trip Duration
+Share code and data to improve ride time predictions<br>
+<img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/taxi_ny.jpg" width="512"><br>
+>> https://www.kaggle.com/c/nyc-taxi-trip-duration/data
+
+
 
 # Les données
 ## **Open Food Facts**
