@@ -2,6 +2,7 @@
 >>## **Iris Species**
 >>Classify iris plants into three species in this classic dataset<br>
 >><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/iris.jpg" width="512"><br>
+>><a href="https://www.kaggle.com/uciml/iris"><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/iris.jpg" width="512"/></a>
 >>>> https://www.kaggle.com/uciml/iris <br>
 >>## **Titanic: Machine Learning from Disaster**<br>
 >>Start here! Predict survival on the Titanic and get familiar with ML basics<br>
