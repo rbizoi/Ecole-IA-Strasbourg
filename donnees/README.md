@@ -38,6 +38,7 @@ Safe to eat or deadly poison?<br>
 
 **Breast Cancer Wisconsin (Diagnostic) Data Set**<br>
 Predict whether the cancer is benign or malignant<br>
+<img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/breast-cancer.png" width="512"><br>
 >> https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
 
 
