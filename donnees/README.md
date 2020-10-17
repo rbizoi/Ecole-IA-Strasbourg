@@ -151,3 +151,38 @@
 >>Cats and Dogs dataset to train a DL model<br>
 >><a href="https://www.kaggle.com/tongpython/cat-and-dog"><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/cat-dog.png" width="512" alt="Cat and Dog"/></a>
 >>>> https://www.kaggle.com/tongpython/cat-and-dog
+# Genome
+>>## Genome Information For Sequenced Organisms
+>>taxonomy, statistics and dna sequence links for species with sequenced genomes
+>>>> https://www.kaggle.com/camnugent/genome-information-for-sequenced-organisms
+>>## Drosophila Melanogaster Genome
+>>Explore the annotated genome of the common fruit fly
+>>>> https://www.kaggle.com/mylesoneill/drosophila-melanogaster-genome
+# Autres
+>>## National Health and Nutrition Examination Survey
+>>NHANES datasets from 2013-2014
+>>>>https://www.kaggle.com/cdc/national-health-and-nutrition-examination-survey
+>>## Dota 2 Matches
+>>Explore player behavior and predict match outcomes.
+>>>> https://www.kaggle.com/devinanzelmo/dota-2-matches
+>>## International football results from 1872 to 2020
+>>An up-to-date dataset of over 40,000 international football results
+>>>>https://www.kaggle.com/martj42/international-football-results-from-1872-to-2017
+>>## Sentiment140 dataset with 1.6 million tweets
+>>Sentiment analysis with tweets
+>>>>https://www.kaggle.com/kazanova/sentiment140
+>>## Malaria Cell Images Dataset
+>>Cell Images for Detecting Malaria
+>>>>https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria
+>>## Game of Thrones
+>>Explore deaths and battles from this fantasy world
+>>>>https://www.kaggle.com/mylesoneill/game-of-thrones
+>>## Yelp Dataset
+>>A trove of reviews, businesses, users, tips, and check-in data!
+>>>>https://www.kaggle.com/yelp-dataset/yelp-dataset
+>>## Best Artworks of All Time
+>>Collection of Paintings of the 50 Most Influential Artists of All Time
+>>>>https://www.kaggle.com/ikarus777/best-artworks-of-all-time
+>>## arXiv Dataset
+>>arXiv dataset and metadata of 1.7M+ scholarly papers across STEM
+>>>> https://www.kaggle.com/Cornell-University/arxiv
