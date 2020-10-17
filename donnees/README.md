@@ -38,41 +38,21 @@ Safe to eat or deadly poison?<br>
      <th><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/champignon02.jpg" width="256"></th>
  </tr>
 </table>
-
 >> https://www.kaggle.com/uciml/mushroom-classification
-
-
-
-
-
 
 **Breast Cancer Wisconsin (Diagnostic) Data Set**<br>
 Predict whether the cancer is benign or malignant<br>
-
 >> https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
 
 
 **Pima Indians Diabetes Database**<br>
 Predict the onset of diabetes based on diagnostic measures<br>
-
 >> https://www.kaggle.com/uciml/pima-indians-diabetes-database
-
-
-
-
-
-
-
-
 
 # Régressions
 **Avocado Prices**
 Historical data on avocado prices and sales volume in multiple US markets
 >> https://www.kaggle.com/neuromusic/avocado-prices
-
-
-
-
 
 # Les données
 
@@ -83,7 +63,6 @@ Attention taille 963M<br>
 
 **Amazon Fine Food Reviews**<br>
 Analyze ~500,000 food reviews from Amazon<br>
-
 
 
 # Traitement naturel du langage -- Natural Language Processing (NLP)
@@ -111,18 +90,20 @@ More than 350k movies and main casting/crew up to Aug17<br>
 
 **Digit Recognizer**<br>
 Learn computer vision fundamentals with the famous MNIST data<br>
-<img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/mnist.png" width="512">
-
+<img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/mnist.png" width="512"><br>
 >> https://www.kaggle.com/c/digit-recognizer/data
+
+**Fashion MNIST**<br>
+An MNIST-like dataset of 70,000 28x28 labeled fashion images<br>
+<img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/fashion-mnist.png" width="512"><br>
+>> https://www.kaggle.com/zalando-research/fashionmnist
 
 **Breast Histopathology Images**<br>
 198,738 IDC(-) image patches; 78,786 IDC(+) image patches<br>
-<img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/breast-cancer.jpg" width="512">
-
+<img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/breast-cancer.jpg" width="512"><br>
 >> https://www.kaggle.com/paultimothymooney/breast-histopathology-images
 
 **Cat and Dog**<br>
 Cats and Dogs dataset to train a DL model<br>
-<img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/cat-dog.png" width="512">
-
+<img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/cat-dog.png" width="512"><br>
 >> https://www.kaggle.com/tongpython/cat-and-dog
