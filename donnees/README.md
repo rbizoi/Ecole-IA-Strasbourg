@@ -91,6 +91,7 @@
 >>>> https://www.kaggle.com/snap/amazon-fine-food-reviews
 # Traitement naturel du langage -- Natural Language Processing (NLP)
 >>## recherche des données sur **Kaggle** :<br>
+>><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/kaggle.png" width="512"><br>
 >>>> https://www.kaggle.com/datasets?search=nlp&sort=votes
 >>## **Amazon Reviews for Sentiment Analysis**<br>
 >>A few million Amazon reviews in fastText format<br>
