@@ -71,6 +71,11 @@ time series analysis- regression / clustering<br>
 <img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/energy.jpg" width="512"><br>
 >> https://www.kaggle.com/uciml/electric-power-consumption-data-set
 
+**Air Quality in Madrid (2001-2018)**<br>
+Different pollution levels in Madrid from 2001 to 2018<br>
+<img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/madrid-air.jpg" width="512"><br>
+>> https://www.kaggle.com/decide-soluciones/air-quality-madrid
+
 
 # Traitement naturel du langage -- Natural Language Processing (NLP)
 recherche des données sur **Kaggle** :<br>
