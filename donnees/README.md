@@ -5,28 +5,24 @@
 
 **Iris Species**<br>
 Classify iris plants into three species in this classic dataset<br>
-<img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/iris.jpg" width="512">
-
+<img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/iris.jpg" width="512"><br>
 >> https://www.kaggle.com/uciml/iris
 
 **Titanic: Machine Learning from Disaster**<br>
 Start here! Predict survival on the Titanic and get familiar with ML basics<br>
-<img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/titanic.jpg" width="512">
-
+<img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/titanic.jpg" width="512"><br>
 >> https://www.kaggle.com/c/titanic
 
 
 **House Prices: Advanced Regression Techniques**<br>
 Predict sales prices and practice feature engineering, RFs, and gradient boosting<br>
-<img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/House-Prices.png" width="512">
-
+<img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/House-Prices.png" width="512"><br>
 >> https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
 
 **Digit Recognizer**<br>
 Learn computer vision fundamentals with the famous MNIST data<br>
-<img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/mnist.png" width="512">
-
+<img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/mnist.png" width="512"><br>
 >> https://www.kaggle.com/c/digit-recognizer/data
 
 **Mushroom Classification**<br>
@@ -48,6 +44,11 @@ Predict whether the cancer is benign or malignant<br>
 **Pima Indians Diabetes Database**<br>
 Predict the onset of diabetes based on diagnostic measures<br>
 >> https://www.kaggle.com/uciml/pima-indians-diabetes-database
+
+**Credit Card Fraud Detection**<br>
+Anonymized credit card transactions labeled as fraudulent or genuine<br>
+<img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/titanic.jpg" width="512"><br>
+>> https://www.kaggle.com/mlg-ulb/creditcardfraud
 
 # Régressions
 **Avocado Prices**
@@ -75,6 +76,11 @@ time series analysis- regression / clustering<br>
 Different pollution levels in Madrid from 2001 to 2018<br>
 <img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/madrid-air.jpg" width="512"><br>
 >> https://www.kaggle.com/decide-soluciones/air-quality-madrid
+
+**Climate Change: Earth Surface Temperature Data**<br>
+Exploring global temperatures since 1750<br>
+<img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/climat-change.png" width="512"><br>
+>> https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data
 
 
 # Traitement naturel du langage -- Natural Language Processing (NLP)
