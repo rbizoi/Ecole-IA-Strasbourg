@@ -1,12 +1,11 @@
 # Les jeux des données d’apprentissage
->>## **Iris Species**
+>>## Iris Species
 >>Classify iris plants into three species in this classic dataset<br>
->><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/iris.jpg" width="512"><br>
->><a href="https://www.kaggle.com/uciml/iris"><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/iris.jpg" width="512"/></a>
+>><a href="https://www.kaggle.com/uciml/iris"><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/iris.jpg" width="512" alt="Iris Species"/></a>
 >>>> https://www.kaggle.com/uciml/iris <br>
->>## **Titanic: Machine Learning from Disaster**<br>
+>>## Titanic: Machine Learning from Disaster
 >>Start here! Predict survival on the Titanic and get familiar with ML basics<br>
->><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/titanic.jpg" width="512"><br>
+>><a href="https://www.kaggle.com/c/titanic"><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/titanic.jpg" width="512" alt="Titanic"/></a>
 >>>> https://www.kaggle.com/c/titanic <br>
 >>## **House Prices: Advanced Regression Techniques**<br>
 >>Predict sales prices and practice feature engineering, RFs, and gradient boosting<br>
