@@ -38,6 +38,12 @@
 >>Anonymized credit card transactions labeled as fraudulent or genuine<br>
 >><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/credit-card.jpg" width="512"><br>
 >>>> https://www.kaggle.com/mlg-ulb/creditcardfraud
+# Classifications
+>>## Heart Disease UCI
+>> https://archive.ics.uci.edu/ml/datasets/Heart+Disease<br>
+>><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/heart.jpg" width="512"><br>
+>>>> https://www.kaggle.com/ronitf/heart-disease-uci
+
 # Régressions
 >>## **Avocado Prices**<br>
 >>Historical data on avocado prices and sales volume in multiple US markets<br>
