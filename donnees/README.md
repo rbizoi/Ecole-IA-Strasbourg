@@ -43,6 +43,7 @@ Predict whether the cancer is benign or malignant<br>
 
 **Pima Indians Diabetes Database**<br>
 Predict the onset of diabetes based on diagnostic measures<br>
+<img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/indian-diabete.png" width="512"><br>
 >> https://www.kaggle.com/uciml/pima-indians-diabetes-database
 
 **Credit Card Fraud Detection**<br>
