@@ -3,7 +3,7 @@
 # Les jeux des données d’apprentissage
 
 
-**Iris Species**<br>
+## **Iris Species**
 Classify iris plants into three species in this classic dataset<br>
 <img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/iris.jpg" width="512"><br>
 >> https://www.kaggle.com/uciml/iris
