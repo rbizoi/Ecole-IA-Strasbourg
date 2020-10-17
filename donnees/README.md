@@ -63,10 +63,16 @@ Attention taille 963M<br>
 
 **Amazon Fine Food Reviews**<br>
 Analyze ~500,000 food reviews from Amazon<br>
+>> https://www.kaggle.com/snap/amazon-fine-food-reviews
+
+# Les series temporelles
+**Household Electric Power Consumption**<br>
+time series analysis- regression / clustering<br>
+<img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/energy.jpg" width="512"><br>
+>> https://www.kaggle.com/uciml/electric-power-consumption-data-set
 
 
 # Traitement naturel du langage -- Natural Language Processing (NLP)
-
 recherche des données sur **Kaggle** :<br>
 >> https://www.kaggle.com/datasets?search=nlp&sort=votes
 
@@ -87,7 +93,6 @@ More than 350k movies and main casting/crew up to Aug17<br>
 >> https://www.kaggle.com/stephanerappeneau/350-000-movies-from-themoviedborg
 
 # Deep Learning CNN
-
 **Digit Recognizer**<br>
 Learn computer vision fundamentals with the famous MNIST data<br>
 <img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/mnist.png" width="512"><br>
