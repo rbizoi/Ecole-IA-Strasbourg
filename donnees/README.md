@@ -2,6 +2,13 @@
 
 # Les jeux des données d’apprentissage
 
+
+**Iris Species**<br>
+Classify iris plants into three species in this classic dataset<br>
+<img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/iris.jpg" width="512">
+
+>> https://www.kaggle.com/uciml/iris
+
 **Titanic: Machine Learning from Disaster**<br>
 Start here! Predict survival on the Titanic and get familiar with ML basics<br>
 <img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/titanic.jpg" width="512">
@@ -35,10 +42,24 @@ Safe to eat or deadly poison?<br>
 >> https://www.kaggle.com/uciml/mushroom-classification
 
 
+
+
+
+
 **Breast Cancer Wisconsin (Diagnostic) Data Set**<br>
 Predict whether the cancer is benign or malignant<br>
 
 >> https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
+
+
+**Pima Indians Diabetes Database**<br>
+Predict the onset of diabetes based on diagnostic measures<br>
+
+>> https://www.kaggle.com/uciml/pima-indians-diabetes-database
+
+
+
+
 
 
 
