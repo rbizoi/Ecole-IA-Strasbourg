@@ -1,5 +1,14 @@
 
 
+# Les jeux des données d’apprentissage
+
+**Titanic: Machine Learning from Disaster**<br>
+Start here! Predict survival on the Titanic and get familiar with ML basics<br>
+<img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/titanic.jpg" width="512">
+
+>> https://www.kaggle.com/c/titanic
+
+
 
 
 
