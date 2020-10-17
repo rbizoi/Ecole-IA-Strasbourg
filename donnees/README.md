@@ -7,15 +7,15 @@
 >>Start here! Predict survival on the Titanic and get familiar with ML basics<br>
 >><a href="https://www.kaggle.com/c/titanic"><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/titanic.jpg" width="512" alt="Titanic"/></a>
 >>>> https://www.kaggle.com/c/titanic <br>
->>## **House Prices: Advanced Regression Techniques**<br>
+>>##House Prices: Advanced Regression Techniques
 >>Predict sales prices and practice feature engineering, RFs, and gradient boosting<br>
 >><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/House-Prices.png" width="512"><br>
 >>>> https://www.kaggle.com/c/house-prices-advanced-regression-techniques
->>## **Digit Recognizer**<br>
+>>##Digit Recognizer
 >>Learn computer vision fundamentals with the famous MNIST data<br>
 >><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/mnist.png" width="512"><br>
 >>>> https://www.kaggle.com/c/digit-recognizer/data
->>## **Mushroom Classification**<br>
+>>##Mushroom Classification
 >>Safe to eat or deadly poison?<br>
 >><table>
 >> <tr>                                                                                   
@@ -24,15 +24,15 @@
 >> </tr>
 >></table>
 >>>> https://www.kaggle.com/uciml/mushroom-classification
->>## **Breast Cancer Wisconsin (Diagnostic) Data Set**<br>
+>>##Breast Cancer Wisconsin (Diagnostic) Data Set
 >>Predict whether the cancer is benign or malignant<br>
 >><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/breast-cancer.png" width="512"><br>
 >>>> https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
->>## **Pima Indians Diabetes Database**<br>
+>>##Pima Indians Diabetes Database
 >>Predict the onset of diabetes based on diagnostic measures<br>
 >><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/indian-diabete.png" width="512"><br>
 >>>> https://www.kaggle.com/uciml/pima-indians-diabetes-database
->>## **Credit Card Fraud Detection**<br>
+>>##Credit Card Fraud Detection
 >>Anonymized credit card transactions labeled as fraudulent or genuine<br>
 >><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/credit-card.jpg" width="512"><br>
 >>>> https://www.kaggle.com/mlg-ulb/creditcardfraud
@@ -70,41 +70,41 @@
 >><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/HouseSalesinKingCounty.png" width="512"><br>
 >>>> https://www.kaggle.com/harlfoxem/housesalesprediction
 # Les series temporelles
->>## **Household Electric Power Consumption**<br>
+>>##Household Electric Power Consumption
 >>time series analysis- regression / clustering<br>
 >><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/energy.jpg" width="512"><br>
 >>>> https://www.kaggle.com/uciml/electric-power-consumption-data-set
->>## **Air Quality in Madrid (2001-2018)**<br>
+>>##Air Quality in Madrid (2001-2018)
 >>Different pollution levels in Madrid from 2001 to 2018<br>
 >><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/madrid-air.jpg" width="512"><br>
 >>>> https://www.kaggle.com/decide-soluciones/air-quality-madrid
->>## **Climate Change: Earth Surface Temperature Data**<br>
+>>##Climate Change: Earth Surface Temperature Data
 >>Exploring global temperatures since 1750<br>
 >><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/climat-change.png" width="512"><br>
 >>>> https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data
 # Les données analyse
->>## **Open Food Facts**
+>>##Open Food Facts
 >>Explore nutrition facts from foods around the world<br>
 >>Attention taille 963M<br>
 >><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/Open_Food_Facts.png" width="512"><br>
 >>>> https://www.kaggle.com/openfoodfacts/world-food-facts/notebooks?sortBy=voteCount&group=everyone&pageSize=20&datasetId=20
->>## **Amazon Fine Food Reviews**<br>
+>>##Amazon Fine Food Reviews
 >>Analyze ~500,000 food reviews from Amazon<br>
 >><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/amazon_fine_food.jpeg" width="512"><br>
 >>>> https://www.kaggle.com/snap/amazon-fine-food-reviews
 # Traitement naturel du langage -- Natural Language Processing (NLP)
->>## recherche des données sur **Kaggle** :<br>
+>>## recherche des données sur ``Kaggle`` :<br>
 >><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/kaggle.png" width="512"><br>
 >>>> https://www.kaggle.com/datasets?search=nlp&sort=votes
->>## **Amazon Reviews for Sentiment Analysis**<br>
+>>##Amazon Reviews for Sentiment Analysis
 >>A few million Amazon reviews in fastText format<br>
 >><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/sentiment-analysis.png" width="512"><br>
 >>>> https://www.kaggle.com/bittlingmayer/amazonreviews
->>## **New York Times Comments**<br>
+>>##New York Times Comments
 >>Comments on articles published in the New York Times<br>
 >><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/nyt.png" width="512"><br>
 >>>> https://www.kaggle.com/aashita/nyt-comments
->>## **COVID-19 Open Research Dataset Challenge (CORD-19)**<br>
+>>##COVID-19 Open Research Dataset Challenge (CORD-19)
 >>An AI challenge with AI2, CZI, MSR, Georgetown, NIH & The White House<br>
 >><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/covid19.jpg" width="512"><br>
 >>>> https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge
@@ -113,19 +113,19 @@
 >><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/movies.png" width="512"><br>
 >>>> https://www.kaggle.com/stephanerappeneau/350-000-movies-from-themoviedborg
 # Deep Learning CNN
->>## **Digit Recognizer**<br>
+>>##Digit Recognizer
 >>Learn computer vision fundamentals with the famous MNIST data<br>
 >><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/mnist.png" width="512"><br>
 >>>> https://www.kaggle.com/c/digit-recognizer/data
->>## **Fashion MNIST**<br>
+>>##Fashion MNIST
 >>An MNIST-like dataset of 70,000 28x28 labeled fashion images<br>
 >><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/fashion-mnist.png" width="512"><br>
 >>>> https://www.kaggle.com/zalando-research/fashionmnist
->>## **Breast Histopathology Images**<br>
+>>##Breast Histopathology Images
 >>198,738 IDC(-) image patches; 78,786 IDC(+) image patches<br>
 >><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/breast-cancer.jpg" width="512"><br>
 >>>> https://www.kaggle.com/paultimothymooney/breast-histopathology-images
->>## **Cat and Dog**<br>
+>>##Cat and Dog
 >>Cats and Dogs dataset to train a DL model<br>
 >><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/cat-dog.png" width="512"><br>
 >>>> https://www.kaggle.com/tongpython/cat-and-dog
