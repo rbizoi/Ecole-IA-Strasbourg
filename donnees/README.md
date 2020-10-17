@@ -88,46 +88,46 @@
 >>## Open Food Facts
 >>Explore nutrition facts from foods around the world<br>
 >>Attention taille 963M<br>
->><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/Open_Food_Facts.png" width="512"><br>
->>>> https://www.kaggle.com/openfoodfacts/world-food-facts/notebooks?sortBy=voteCount&group=everyone&pageSize=20&datasetId=20
+>><a href="https://www.kaggle.com/openfoodfacts/world-food-facts"><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/Open_Food_Facts.png" width="512" alt="Open Food Facts"/></a>
+>>>> https://www.kaggle.com/openfoodfacts/world-food-facts
 >>## Amazon Fine Food Reviews
 >>Analyze ~500,000 food reviews from Amazon<br>
->><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/amazon_fine_food.jpeg" width="512"><br>
+>><a href="https://www.kaggle.com/snap/amazon-fine-food-reviews"><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/amazon_fine_food.jpeg" width="512" alt="Amazon Fine Food Reviews"/></a>
 >>>> https://www.kaggle.com/snap/amazon-fine-food-reviews
 # Traitement naturel du langage -- Natural Language Processing (NLP)
 >>## recherche des données sur ``Kaggle`` :<br>
->><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/kaggle.png" width="512"><br>
+>><a href="https://www.kaggle.com/datasets?search=nlp&sort=votes"><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/kaggle.png" width="512" alt="recherche"/></a>
 >>>> https://www.kaggle.com/datasets?search=nlp&sort=votes
 >>## Amazon Reviews for Sentiment Analysis
 >>A few million Amazon reviews in fastText format<br>
->><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/sentiment-analysis.png" width="512"><br>
+>><a href="https://www.kaggle.com/bittlingmayer/amazonreviews"><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/sentiment-analysis.png" width="512" alt="Amazon Reviews for Sentiment Analysis"/></a>
 >>>> https://www.kaggle.com/bittlingmayer/amazonreviews
 >>## New York Times Comments
 >>Comments on articles published in the New York Times<br>
->><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/nyt.png" width="512"><br>
+>><a href="https://www.kaggle.com/aashita/nyt-comments"><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/nyt.png" width="512" alt="New York Times Comments"/></a>
 >>>> https://www.kaggle.com/aashita/nyt-comments
 >>## COVID-19 Open Research Dataset Challenge (CORD-19)
 >>An AI challenge with AI2, CZI, MSR, Georgetown, NIH & The White House<br>
->><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/covid19.jpg" width="512"><br>
+>><a href="https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge"><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/covid19.jpg" width="512" alt="COVID-19"/></a>
 >>>> https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge
 >>## 350 000+ movies from themoviedb.org<br>
 >>More than 350k movies and main casting/crew up to Aug17<br>
->><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/movies.png" width="512"><br>
+>><a href="https://www.kaggle.com/stephanerappeneau/350-000-movies-from-themoviedborg"><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/movies.png" width="512" alt="themoviedb.org"/></a>
 >>>> https://www.kaggle.com/stephanerappeneau/350-000-movies-from-themoviedborg
 # Deep Learning CNN
 >>## Digit Recognizer
 >>Learn computer vision fundamentals with the famous MNIST data<br>
->><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/mnist.png" width="512"><br>
->>>> https://www.kaggle.com/c/digit-recognizer/data
+>><a href="https://www.kaggle.com/c/digit-recognizer/data"><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/mnist.png" width="512" alt="Digit Recognizer"/></a>
+>>>> https://www.kaggle.com/c/digit-recognizer
 >>## Fashion MNIST
 >>An MNIST-like dataset of 70,000 28x28 labeled fashion images<br>
->><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/fashion-mnist.png" width="512"><br>
+>><a href="https://www.kaggle.com/zalando-research/fashionmnist"><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/fashion-mnist.png" width="512" alt="Digit Recognizer"/></a>
 >>>> https://www.kaggle.com/zalando-research/fashionmnist
 >>## Breast Histopathology Images
 >>198,738 IDC(-) image patches; 78,786 IDC(+) image patches<br>
->><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/breast-cancer.jpg" width="512"><br>
+>><a href="https://www.kaggle.com/paultimothymooney/breast-histopathology-images"><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/breast-cancer.jpg" width="512" alt="Breast Histopathology Images"/></a>
 >>>> https://www.kaggle.com/paultimothymooney/breast-histopathology-images
 >>## Cat and Dog
 >>Cats and Dogs dataset to train a DL model<br>
->><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/cat-dog.png" width="512"><br>
+>><a href="https://www.kaggle.com/tongpython/cat-and-dog"><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/cat-dog.png" width="512" alt="Cat and Dog"/></a>
 >>>> https://www.kaggle.com/tongpython/cat-and-dog
