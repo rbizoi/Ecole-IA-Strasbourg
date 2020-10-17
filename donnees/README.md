@@ -24,6 +24,7 @@
 >> </tr>
 >></table>
 >>>> https://www.kaggle.com/uciml/mushroom-classification
+
 >>## Breast Cancer Wisconsin (Diagnostic) Data Set
 >>Predict whether the cancer is benign or malignant<br>
 >><a href="https://www.kaggle.com/uciml/breast-cancer-wisconsin-data"><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/breast-cancer.png" width="512" alt="Breast Cancer Wisconsin"/></a>
