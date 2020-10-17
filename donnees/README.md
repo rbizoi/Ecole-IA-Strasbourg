@@ -1,5 +1,3 @@
-
-
 # Les jeux des données d’apprentissage
 >>## **Iris Species**
 >>Classify iris plants into three species in this classic dataset<br>
@@ -43,7 +41,11 @@
 >> https://archive.ics.uci.edu/ml/datasets/Heart+Disease<br>
 >><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/heart.jpg" width="512"><br>
 >>>> https://www.kaggle.com/ronitf/heart-disease-uci
-
+>># Don't Overfit!
+>>A Fistful of Samples<br>
+>><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/Don't%20Overfit!.png" width="512"><br>
+>>>> https://www.kaggle.com/c/overfitting
+>>>> https://www.kaggle.com/c/dont-overfit-ii/data
 # Régressions
 >>## **Avocado Prices**<br>
 >>Historical data on avocado prices and sales volume in multiple US markets<br>
