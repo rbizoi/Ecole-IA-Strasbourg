@@ -7,48 +7,39 @@
 >>Classify iris plants into three species in this classic dataset<br>
 >><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/iris.jpg" width="512"><br>
 >>>> https://www.kaggle.com/uciml/iris <br>
-## **Titanic: Machine Learning from Disaster**<br>
+>>## **Titanic: Machine Learning from Disaster**<br>
 >>Start here! Predict survival on the Titanic and get familiar with ML basics<br>
 >><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/titanic.jpg" width="512"><br>
 >>>> https://www.kaggle.com/c/titanic <br>
-## **House Prices: Advanced Regression Techniques**<br>
-Predict sales prices and practice feature engineering, RFs, and gradient boosting<br>
-<img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/House-Prices.png" width="512"><br>
->> https://www.kaggle.com/c/house-prices-advanced-regression-techniques
-
-
-## **Digit Recognizer**<br>
-Learn computer vision fundamentals with the famous MNIST data<br>
-<img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/mnist.png" width="512"><br>
->> https://www.kaggle.com/c/digit-recognizer/data
-
-## **Mushroom Classification**<br>
-Safe to eat or deadly poison?<br>
-
-<table>
- <tr>                                                                                   
-     <th><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/champignon.jpg" width="256"></th>
-     <th><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/champignon02.jpg" width="256"></th>
- </tr>
-</table>
->> https://www.kaggle.com/uciml/mushroom-classification
-
+>>## **House Prices: Advanced Regression Techniques**<br>
+>>Predict sales prices and practice feature engineering, RFs, and gradient boosting<br>
+>><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/House-Prices.png" width="512"><br>
+>>>> https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+>>## **Digit Recognizer**<br>
+>>Learn computer vision fundamentals with the famous MNIST data<br>
+>><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/mnist.png" width="512"><br>
+>>>> https://www.kaggle.com/c/digit-recognizer/data
+>>## **Mushroom Classification**<br>
+>>Safe to eat or deadly poison?<br>
+>><table>
+>> <tr>                                                                                   
+>>     <th><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/champignon.jpg" width="256"></th>
+>>     <th><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/champignon02.jpg" width="256"></th>
+>> </tr>
+>></table>
+>>>> https://www.kaggle.com/uciml/mushroom-classification
 ## **Breast Cancer Wisconsin (Diagnostic) Data Set**<br>
-Predict whether the cancer is benign or malignant<br>
-<img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/breast-cancer.png" width="512"><br>
->> https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
-
-
+>>Predict whether the cancer is benign or malignant<br>
+>><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/breast-cancer.png" width="512"><br>
+>>>> https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
 ## **Pima Indians Diabetes Database**<br>
-Predict the onset of diabetes based on diagnostic measures<br>
-<img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/indian-diabete.png" width="512"><br>
->> https://www.kaggle.com/uciml/pima-indians-diabetes-database
-
+>>Predict the onset of diabetes based on diagnostic measures<br>
+>><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/indian-diabete.png" width="512"><br>
+>>>> https://www.kaggle.com/uciml/pima-indians-diabetes-database
 ## **Credit Card Fraud Detection**<br>
-Anonymized credit card transactions labeled as fraudulent or genuine<br>
-<img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/credit-card.jpg" width="512"><br>
->> https://www.kaggle.com/mlg-ulb/creditcardfraud
-
+>>Anonymized credit card transactions labeled as fraudulent or genuine<br>
+>><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/credit-card.jpg" width="512"><br>
+>>>> https://www.kaggle.com/mlg-ulb/creditcardfraud
 # Régressions
 ## **Avocado Prices**<br>
 Historical data on avocado prices and sales volume in multiple US markets<br>
