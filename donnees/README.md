@@ -16,6 +16,16 @@ Predict sales prices and practice feature engineering, RFs, and gradient boostin
 >> https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
 
+**Digit Recognizer**<br>
+Learn computer vision fundamentals with the famous MNIST data<br>
+<img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/mnist.png" width="512">
+
+>> https://www.kaggle.com/c/digit-recognizer/data
+
+
+
+
+
 
 # Régressions
 **Avocado Prices**
