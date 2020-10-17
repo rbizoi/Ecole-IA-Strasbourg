@@ -35,6 +35,12 @@ Safe to eat or deadly poison?<br>
 >> https://www.kaggle.com/uciml/mushroom-classification
 
 
+**Breast Cancer Wisconsin (Diagnostic) Data Set**<br>
+Predict whether the cancer is benign or malignant<br>
+
+>> https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
+
+
 
 
 
