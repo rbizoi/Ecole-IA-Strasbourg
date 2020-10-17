@@ -22,6 +22,12 @@ Learn computer vision fundamentals with the famous MNIST data<br>
 
 >> https://www.kaggle.com/c/digit-recognizer/data
 
+**Mushroom Classification**<br>
+Safe to eat or deadly poison?<br>
+
+<img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/champignon.jpg" width="256">
+<img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/champignon02.jpg" width="256">
+>> https://www.kaggle.com/uciml/mushroom-classification
 
 
 
