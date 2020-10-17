@@ -17,12 +17,12 @@
 >>>> https://www.kaggle.com/c/digit-recognizer/data
 >>## Mushroom Classification
 >>Safe to eat or deadly poison?<br>
->><table>
->> <tr>                                                                                   
->>     <th><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/champignon.jpg" width="256"></th>
->>     <th><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/champignon02.jpg" width="256"></th>
->> </tr>
->></table> <br>
+>>>><table>
+>>>><tr>                                                                                   
+>>>>     <th><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/champignon.jpg" width="256"></th>
+>>>>     <th><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/champignon02.jpg" width="256"></th>
+>>>></tr>
+>>>></table> <br>
 >>>> https://www.kaggle.com/uciml/mushroom-classification
 >>## Breast Cancer Wisconsin (Diagnostic) Data Set
 >>Predict whether the cancer is benign or malignant<br>
