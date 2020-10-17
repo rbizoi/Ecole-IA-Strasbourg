@@ -61,6 +61,13 @@ Share code and data to improve ride time predictions<br>
 <img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/taxi_ny.png" width="512"><br>
 >> https://www.kaggle.com/c/nyc-taxi-trip-duration/data
 
+## New York Citi Bike Trip Duration 2016
+2016 bike rides dataset, can it be correlated with taxi rides?<br>
+<img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/nyc-bike-map.png" width="512"><br>
+>> https://www.kaggle.com/roundedup/new-york-citi-bike-trip-duration
+
+
+
 
 
 # Les données
