@@ -4,13 +4,13 @@
 
 
 ## **Iris Species**
-Classify iris plants into three species in this classic dataset<br>
-<img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/iris.jpg" width="512"><br>
->> https://www.kaggle.com/uciml/iris <br>
+>>Classify iris plants into three species in this classic dataset<br>
+>><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/iris.jpg" width="512"><br>
+>>>> https://www.kaggle.com/uciml/iris <br>
 ## **Titanic: Machine Learning from Disaster**<br>
-Start here! Predict survival on the Titanic and get familiar with ML basics<br>
-<img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/titanic.jpg" width="512"><br>
->> https://www.kaggle.com/c/titanic <br>
+>>Start here! Predict survival on the Titanic and get familiar with ML basics<br>
+>><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/titanic.jpg" width="512"><br>
+>>>> https://www.kaggle.com/c/titanic <br>
 ## **House Prices: Advanced Regression Techniques**<br>
 Predict sales prices and practice feature engineering, RFs, and gradient boosting<br>
 <img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/House-Prices.png" width="512"><br>
@@ -79,10 +79,10 @@ Analyze ~500,000 food reviews from Amazon<br>
 >> https://www.kaggle.com/snap/amazon-fine-food-reviews
 
 # Les series temporelles
->> ## **Household Electric Power Consumption**<br>
->> time series analysis- regression / clustering<br>
->> <img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/energy.jpg" width="512"><br>
->>> https://www.kaggle.com/uciml/electric-power-consumption-data-set
+## **Household Electric Power Consumption**<br>
+time series analysis- regression / clustering<br>
+<img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/energy.jpg" width="512"><br>
+>> https://www.kaggle.com/uciml/electric-power-consumption-data-set
 
 ## **Air Quality in Madrid (2001-2018)**<br>
 Different pollution levels in Madrid from 2001 to 2018<br>
