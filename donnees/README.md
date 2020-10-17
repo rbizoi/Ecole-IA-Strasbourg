@@ -74,6 +74,7 @@ Share code and data to improve ride time predictions<br>
 ## **Open Food Facts**
 Explore nutrition facts from foods around the world<br>
 Attention taille 963M<br>
+<img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/Open_Food_Facts.png" width="512"><br>
 >> https://www.kaggle.com/openfoodfacts/world-food-facts/notebooks?sortBy=voteCount&group=everyone&pageSize=20&datasetId=20
 
 ## **Amazon Fine Food Reviews**<br>
