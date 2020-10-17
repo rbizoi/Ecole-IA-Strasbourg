@@ -1,3 +1,6 @@
+# Recherche des données sur ``Kaggle`` :<br>
+>><a href="https://www.kaggle.com/datasets?search=nlp&sort=votes"><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/kaggle.png" width="512" alt="recherche"/></a>
+>>>> https://www.kaggle.com/datasets
 # Les jeux des données d’apprentissage
 >>## Iris Species
 >>Classify iris plants into three species in this classic dataset<br>
@@ -95,9 +98,6 @@
 >><a href="https://www.kaggle.com/snap/amazon-fine-food-reviews"><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/amazon_fine_food.jpeg" width="512" alt="Amazon Fine Food Reviews"/></a>
 >>>> https://www.kaggle.com/snap/amazon-fine-food-reviews
 # Traitement naturel du langage -- Natural Language Processing (NLP)
->>## recherche des données sur ``Kaggle`` :<br>
->><a href="https://www.kaggle.com/datasets?search=nlp&sort=votes"><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/kaggle.png" width="512" alt="recherche"/></a>
->>>> https://www.kaggle.com/datasets?search=nlp&sort=votes
 >>## Amazon Reviews for Sentiment Analysis
 >>A few million Amazon reviews in fastText format<br>
 >><a href="https://www.kaggle.com/bittlingmayer/amazonreviews"><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/sentiment-analysis.png" width="512" alt="Amazon Reviews for Sentiment Analysis"/></a>
