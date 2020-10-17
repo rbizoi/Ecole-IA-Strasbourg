@@ -47,7 +47,7 @@ Predict the onset of diabetes based on diagnostic measures<br>
 
 **Credit Card Fraud Detection**<br>
 Anonymized credit card transactions labeled as fraudulent or genuine<br>
-<img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/titanic.jpg" width="512"><br>
+<img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/credit-card.jpg" width="512"><br>
 >> https://www.kaggle.com/mlg-ulb/creditcardfraud
 
 # Régressions
