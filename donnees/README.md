@@ -107,8 +107,6 @@ An AI challenge with AI2, CZI, MSR, Georgetown, NIH & The White House<br>
 More than 350k movies and main casting/crew up to Aug17<br>
 >> https://www.kaggle.com/stephanerappeneau/350-000-movies-from-themoviedborg
 
-
-
 # Deep Learning CNN
 
 **Digit Recognizer**<br>
@@ -119,5 +117,6 @@ Learn computer vision fundamentals with the famous MNIST data<br>
 
 **Breast Histopathology Images**<br>
 198,738 IDC(-) image patches; 78,786 IDC(+) image patches<br>
+<img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/breast-cancer.jpg" width="512">
 
 >> https://www.kaggle.com/paultimothymooney/breast-histopathology-images
