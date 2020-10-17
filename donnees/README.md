@@ -103,8 +103,9 @@
 >>>> https://www.kaggle.com/aashita/nyt-comments
 >>## **COVID-19 Open Research Dataset Challenge (CORD-19)**<br>
 >>An AI challenge with AI2, CZI, MSR, Georgetown, NIH & The White House<br>
+>><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/covid19.jpg" width="512"><br>
 >>>> https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge
->>## **350 000+ movies from themoviedb.org**<br>
+>>## 350 000+ movies from themoviedb.org<br>
 >>More than 350k movies and main casting/crew up to Aug17<br>
 >>>> https://www.kaggle.com/stephanerappeneau/350-000-movies-from-themoviedborg
 # Deep Learning CNN
