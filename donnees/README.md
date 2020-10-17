@@ -58,7 +58,7 @@ Historical data on avocado prices and sales volume in multiple US markets<br>
 
 ## New York City Taxi Trip Duration
 Share code and data to improve ride time predictions<br>
-<img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/taxi_ny.jpg" width="512"><br>
+<img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/taxi_ny.png" width="512"><br>
 >> https://www.kaggle.com/c/nyc-taxi-trip-duration/data
 
 
