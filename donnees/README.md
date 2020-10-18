@@ -1,24 +1,24 @@
 # Recherche des données
 ## ``Kaggle``
->><a href="https://www.kaggle.com/datasets?search=nlp&sort=votes"><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/kaggle.png" width="512" alt="recherche"/></a>
+>><a href="https://www.kaggle.com/datasets?search=nlp&sort=votes"><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/kaggle.png" width="256" alt="recherche"/></a>
 >>>> https://www.kaggle.com/datasets
 ## Google Dataset Search
 >> https://datasetsearch.research.google.com/
 ## Portail européen de données
->><a href="https://www.europeandataportal.eu/fr"><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/drapeau_UE.jpg" width="512" alt="recherche"/></a>
+>><a href="https://www.europeandataportal.eu/fr"><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/drapeau_UE.jpg" width="256" alt="recherche"/></a>
 >>>> https://www.europeandataportal.eu/fr
 ## Strasbourg portail de données
->><a href="https://data.strasbourg.eu/pages/accueil"><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/Strasbourg.jpg" width="512" alt="recherche"/></a>
+>><a href="https://data.strasbourg.eu/pages/accueil"><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/Strasbourg.jpg" width="256" alt="recherche"/></a>
 >>>> https://data.strasbourg.eu/pages/accueil
 ## Nasa
->><a href="https://disc.gsfc.nasa.gov/datasets"><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/langfr-420px-NASA_logo.svg.png" width="512" alt="recherche"/></a>
+>><a href="https://disc.gsfc.nasa.gov/datasets"><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/langfr-420px-NASA_logo.svg.png" width="256" alt="recherche"/></a>
 >>>> https://disc.gsfc.nasa.gov/datasets
 ## US AIR Now l Time Air Quality REST API
->><a href="https://www.airnow.gov"><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/airNowLogo.png" width="512" alt="recherche"/></a>
+>><a href="https://www.airnow.gov"><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/airNowLogo.png" width="256" alt="recherche"/></a>
 >>>> https://www.airnow.gov/
 >>>> https://docs.airnowapi.org/
 ## Vélos en libre-service JCDecaux
->><a href="https://developer.jcdecaux.com/#/home"><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/jcdecaux.png" width="512" alt="recherche"/></a>
+>><a href="https://developer.jcdecaux.com/#/home"><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/jcdecaux.png" width="256" alt="recherche"/></a>
 >>>>https://developer.jcdecaux.com/#/home
 # Les jeux des données d’apprentissage
 >>## Iris Species
