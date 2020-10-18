@@ -17,6 +17,9 @@
 >><a href="https://www.airnow.gov"><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/airNowLogo.png" width="512" alt="recherche"/></a>
 >>>> https://www.airnow.gov/
 >>>> https://docs.airnowapi.org/
+## Vélos en libre-service JCDecaux
+>><a href="https://developer.jcdecaux.com/#/home"><img src="https://raw.githubusercontent.com/rbizoi/Ecole-IA-Strasbourg/master/images/jcdecaux.png" width="512" alt="recherche"/></a>
+>>>>https://developer.jcdecaux.com/#/home
 # Les jeux des données d’apprentissage
 >>## Iris Species
 >>Classify iris plants into three species in this classic dataset<br>
