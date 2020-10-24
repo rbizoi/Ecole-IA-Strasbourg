@@ -1,7 +1,0 @@
-<?xml version = '1.0' encoding = 'UTF-8'?>
-<BusinessInfoDesign class="oracle.dbtools.crest.model.businessinfo.BusinessInfoDesign" name="Business Information" id="0BB9E7AA-6D8E-1386-AB48-E59F16366008">
-<createdBy>Razvan BIZOÏ</createdBy>
-<createdTime>2020-10-24 08:49:56 UTC</createdTime>
-<ownerDesignName>e-brasil</ownerDesignName>
-<shouldBeOpen>false</shouldBeOpen>
-</BusinessInfoDesign>
