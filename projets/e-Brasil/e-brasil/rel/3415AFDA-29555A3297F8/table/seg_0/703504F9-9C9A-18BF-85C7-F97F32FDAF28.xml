@@ -1,0 +1,169 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="703504F9-9C9A-18BF-85C7-F97F32FDAF28" schemaObject="3E6F5C63-300E-BB21-C4A5-53F8540274D7" name="ORDER_ITEMS">
+<sourceConnName>coursIA.stag26.OVH</sourceConnName>
+<sourceObjSchema>STAGBI26</sourceObjSchema>
+<sourceObjName>ORDER_ITEMS</sourceObjName>
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>e-brasil</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="ORDER_ID" id="24E479D4-929B-F1C9-44AC-D5996CBDAB40">
+<sourceConnName>coursIA.stag26.OVH</sourceConnName>
+<sourceObjSchema>ORDER_ITEMS</sourceObjSchema>
+<sourceObjName>ORDER_ID</sourceObjName>
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>e-brasil</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>80 CHAR</dataTypeSize>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="F16EF934-A202-B504-CCA5-6A10D21FD8B3" referredColumn="6325B199-1313-9BEE-7C6F-D2AC16F98A3A"/>
+</associations>
+</Column>
+<Column name="ORDER_ITEM_ID" id="0B280BB3-B30C-368B-1989-70D0C8563188">
+<sourceConnName>coursIA.stag26.OVH</sourceConnName>
+<sourceObjSchema>ORDER_ITEMS</sourceObjSchema>
+<sourceObjName>ORDER_ITEM_ID</sourceObjName>
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>e-brasil</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>*</dataTypePrecision>
+<dataTypeScale>0</dataTypeScale>
+<ownDataTypeParameters>,*,0</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="PRODUCT_ID" id="2FEDC70C-5EE6-C514-01F3-2C7E2A37D35F">
+<sourceConnName>coursIA.stag26.OVH</sourceConnName>
+<sourceObjSchema>ORDER_ITEMS</sourceObjSchema>
+<sourceObjName>PRODUCT_ID</sourceObjName>
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>e-brasil</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>80 CHAR</dataTypeSize>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="29E3EA1F-48AA-9213-3647-B5B1A08F97D7" referredColumn="0D4B4ED4-273C-3BD1-B560-BF1D6F77A917"/>
+</associations>
+</Column>
+<Column name="SELLER_ID" id="29EFED15-0774-2472-5067-2DB7F59E8237">
+<sourceConnName>coursIA.stag26.OVH</sourceConnName>
+<sourceObjSchema>ORDER_ITEMS</sourceObjSchema>
+<sourceObjName>SELLER_ID</sourceObjName>
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>e-brasil</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>80 CHAR</dataTypeSize>
+<ownDataTypeParameters>80 CHAR,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="A4779879-07D2-A24A-1675-8F3C7DE4C14B" referredColumn="E6A74DD1-CC4E-F649-51D6-D3154A32C55D"/>
+</associations>
+</Column>
+<Column name="SHIPPING_LIMIT_DATE" id="51E1C550-0C9D-2F08-9832-20308C502AAF">
+<sourceConnName>coursIA.stag26.OVH</sourceConnName>
+<sourceObjSchema>ORDER_ITEMS</sourceObjSchema>
+<sourceObjName>SHIPPING_LIMIT_DATE</sourceObjName>
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>e-brasil</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<dataTypeSize>7</dataTypeSize>
+<ownDataTypeParameters>7,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="PRICE" id="DBC6B99E-44FA-2EF9-DA3E-93EEB4DB136C">
+<sourceConnName>coursIA.stag26.OVH</sourceConnName>
+<sourceObjSchema>ORDER_ITEMS</sourceObjSchema>
+<sourceObjName>PRICE</sourceObjName>
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>e-brasil</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT021</logicalDatatype>
+<dataTypePrecision>126</dataTypePrecision>
+<ownDataTypeParameters>,126,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="FREIGHT_VALUE" id="9CFF8DD8-318F-5FDA-DDE8-EFA9EB8B494C">
+<sourceConnName>coursIA.stag26.OVH</sourceConnName>
+<sourceObjSchema>ORDER_ITEMS</sourceObjSchema>
+<sourceObjName>FREIGHT_VALUE</sourceObjName>
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>e-brasil</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT021</logicalDatatype>
+<dataTypePrecision>126</dataTypePrecision>
+<ownDataTypeParameters>,126,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="09CC35BE-A451-8173-BCE9-57460CCB0A36" name="ORDER_ITEMS_PK">
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 09:01:03 UTC</createdTime>
+<ownerDesignName>e-brasil</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="24E479D4-929B-F1C9-44AC-D5996CBDAB40"/>
+<colUsage columnID="0B280BB3-B30C-368B-1989-70D0C8563188"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="9A6DB99B-7A04-AC96-6DD9-4B9E6C5FD900" name="ORDER_ITEMS_ORDERS_FK">
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 09:45:01 UTC</createdTime>
+<ownerDesignName>e-brasil</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="24E479D4-929B-F1C9-44AC-D5996CBDAB40"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="45CAA329-7ED2-EB2D-71D9-49CB9946B690" name="ORDER_ITEMS_PRODUCTS_FK">
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 09:45:45 UTC</createdTime>
+<ownerDesignName>e-brasil</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="2FEDC70C-5EE6-C514-01F3-2C7E2A37D35F"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="98277DEF-FB0B-479B-AC70-7320D9FC2FDB" name="ORDER_ITEMS_SELLERS_FK">
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 09:47:08 UTC</createdTime>
+<ownerDesignName>e-brasil</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="29EFED15-0774-2472-5067-2DB7F59E8237"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

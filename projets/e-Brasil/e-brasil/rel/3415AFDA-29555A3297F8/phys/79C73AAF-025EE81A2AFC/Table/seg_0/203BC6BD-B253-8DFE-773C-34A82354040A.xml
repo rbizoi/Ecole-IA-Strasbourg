@@ -1,0 +1,65 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TableProxyOraclev12c class="oracle.dbtools.crest.model.design.storage.oracle.v12c.TableProxyOraclev12c" name="ORDERS" directorySegmentName="seg_0" id="203BC6BD-B253-8DFE-773C-34A82354040A">
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>e-brasil</ownerDesignName>
+<schemaObject>3E6F5C63-300E-BB21-C4A5-53F8540274D7</schemaObject>
+<logging>YES</logging>
+<partitionedRowMovement>DISABLE</partitionedRowMovement>
+<segment>786CB4EA-11EA-0F6E-749F-3460D81E84A3</segment>
+<tableSpace>10F76E86-EC17-2594-91A0-3AD86350ED7D</tableSpace>
+<temporaryChanged>false</temporaryChanged>
+<accessDriverType>oracle_loader</accessDriverType>
+<rejectLimit></rejectLimit>
+<inMemory>NO</inMemory>
+<columnProxies itemClass="oracle.dbtools.crest.model.design.storage.oracle.v12c.ColumnProxyOraclev12c">
+<ColumnProxy name="ORDER_DELIVERED_CUSTOMER_DATE" id="11D37E2B-E2D4-06C0-E4A0-D1A6FC1D6E45">
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>e-brasil</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="ORDER_STATUS" id="1FAF9006-DDAA-E319-0557-8CAFCE58AC74">
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>e-brasil</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="ORDER_ID" id="6325B199-1313-9BEE-7C6F-D2AC16F98A3A">
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>e-brasil</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="ORDER_DELIVERED_CARRIER_DATE" id="920841EC-DB90-C036-D420-779A5D01C849">
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>e-brasil</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="ORDER_ESTIMATED_DELIVERY_DATE" id="B5A94FD7-F3EE-2FD5-3327-61146F59233F">
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>e-brasil</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="ORDER_APPROVED_AT" id="B8309E8D-F981-3F62-CCB5-D64FF025F269">
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>e-brasil</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="CUSTOMER_ID" id="E7264DEE-BB9B-6A96-C1BB-64C2F32AD665">
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>e-brasil</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="ORDER_PURCHASE_TIMESTAMP" id="EE9FBBB7-D859-6803-C6FD-7DCC2B4AAF3A">
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>e-brasil</ownerDesignName>
+</ColumnProxy>
+</columnProxies>
+<primaryKeys>
+<PrimaryKey class="oracle.dbtools.crest.model.design.storage.oracle.v10g.PKProxyOraclev10g" name="ORDERS_PK" id="9D3CAEC5-F2C6-27FB-EDBD-073472879F54">
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 09:00:47 UTC</createdTime>
+<ownerDesignName>e-brasil</ownerDesignName>
+<indexSort>SORTED</indexSort>
+</PrimaryKey>
+</primaryKeys>
+</TableProxyOraclev12c>
