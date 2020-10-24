@@ -1,0 +1,137 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TableProxyOraclev12c class="oracle.dbtools.crest.model.design.storage.oracle.v12c.TableProxyOraclev12c" name="ORDER_REVIEWS" directorySegmentName="seg_0" id="648D661C-7405-F353-20BC-981AEFC81388">
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+<schemaObject>3E6F5C63-300E-BB21-C4A5-53F8540274D7</schemaObject>
+<logging>YES</logging>
+<partitionedRowMovement>DISABLE</partitionedRowMovement>
+<segment>786CB4EA-11EA-0F6E-749F-3460D81E84A3</segment>
+<tableSpace>10F76E86-EC17-2594-91A0-3AD86350ED7D</tableSpace>
+<temporaryChanged>false</temporaryChanged>
+<accessDriverType>oracle_loader</accessDriverType>
+<rejectLimit></rejectLimit>
+<inMemory>NO</inMemory>
+<columnProxies itemClass="oracle.dbtools.crest.model.design.storage.oracle.v12c.ColumnProxyOraclev12c">
+<ColumnProxy name="REVIEW_5" id="16EC17BD-7A4D-190D-B7EC-2917F90B8D76">
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="ANSWER1" id="1703BCF1-D20C-6A9B-3ABD-D6E167B581C7">
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="REVIEW_3" id="201B0C64-2E81-0027-BCA3-59FD26DBED4F">
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="REVIEW_2" id="2B585F7A-9EE9-38FE-7087-251D5B1EC58D">
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="ANSWER5" id="4937D839-9C71-72A7-3F27-B6969AEECC03">
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="ANSWER2" id="641A6689-4A94-ADD4-6A1F-FD5B48FD5869">
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="ORDER_ID" id="672B579C-754B-F907-0DD1-41E9B35F11CA">
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="CREATION1" id="6DE734DD-3129-50A0-AD87-090D54909264">
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="CREATION5" id="70DE3399-B5B2-8B88-2E91-486F4AB0EB85">
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="CREATION4" id="7875BB3D-4F83-2013-9832-787AF28BC511">
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="COMMENT_MESSAGE2" id="84F3BDC4-6A5A-3F29-CA37-4A83EDAE35D1">
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="COMMENT_MESSAGE4" id="8B3DB653-B475-D70D-86AC-A7A14A1E5FFC">
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="COMMENT_MESSAGE3" id="91E5337F-7EE9-18F6-E664-9E5FAB228D74">
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="ANSWER3" id="98CD245C-C54D-DAA5-7457-6B7387261F80">
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="CREATION2" id="9A52A68C-D36A-A720-3C25-14BAA6FA25D8">
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="REVIEW_4" id="9CE0E4E2-3BE1-6CD5-6EE4-AA4685F1582F">
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="REVIEW_1" id="A69032D6-084B-1E73-988D-21823CF4791D">
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="CREATION3" id="AEED69A1-1B18-7793-FE7C-A753647BEA90">
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="COMMENT_MESSAGE5" id="C878C02E-AD84-98FB-AC44-A3CB0C68A5CA">
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="COMMENT_MESSAGE1" id="DCA72615-489B-3D6D-39AD-CDCBA7561F7A">
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="ANSWER4" id="FE580829-336E-A253-F671-4400D55B7394">
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+</ColumnProxy>
+</columnProxies>
+<foreignKeys>
+<ForeignKey class="oracle.dbtools.crest.model.design.storage.oracle.v10g.FKProxyOraclev10g" name="ORDER_REVIEWS_ORDERS_FK" id="74F9B218-505E-473C-4431-9D40743FF5A2">
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 09:43:11 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+</ForeignKey>
+</foreignKeys>
+<primaryKeys>
+<PrimaryKey class="oracle.dbtools.crest.model.design.storage.oracle.v10g.PKProxyOraclev10g" name="ORDER_REVIEWS_PK" id="EFECFDD6-B14D-2BB0-94A9-84186F397607">
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 09:00:39 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+<indexSort>SORTED</indexSort>
+</PrimaryKey>
+</primaryKeys>
+</TableProxyOraclev12c>

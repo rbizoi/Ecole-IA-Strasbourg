@@ -1,0 +1,146 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="203BC6BD-B253-8DFE-773C-34A82354040A" schemaObject="3E6F5C63-300E-BB21-C4A5-53F8540274D7" name="ORDERS">
+<sourceConnName>coursIA.stag26.OVH</sourceConnName>
+<sourceObjSchema>STAGBI26</sourceObjSchema>
+<sourceObjName>ORDERS</sourceObjName>
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="ORDER_ID" id="6325B199-1313-9BEE-7C6F-D2AC16F98A3A">
+<sourceConnName>coursIA.stag26.OVH</sourceConnName>
+<sourceObjSchema>ORDERS</sourceObjSchema>
+<sourceObjName>ORDER_ID</sourceObjName>
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>80 CHAR</dataTypeSize>
+<ownDataTypeParameters>80 CHAR,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="CUSTOMER_ID" id="E7264DEE-BB9B-6A96-C1BB-64C2F32AD665">
+<sourceConnName>coursIA.stag26.OVH</sourceConnName>
+<sourceObjSchema>ORDERS</sourceObjSchema>
+<sourceObjName>CUSTOMER_ID</sourceObjName>
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>80 CHAR</dataTypeSize>
+<ownDataTypeParameters>80 CHAR,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="ORDER_STATUS" id="1FAF9006-DDAA-E319-0557-8CAFCE58AC74">
+<sourceConnName>coursIA.stag26.OVH</sourceConnName>
+<sourceObjSchema>ORDERS</sourceObjSchema>
+<sourceObjName>ORDER_STATUS</sourceObjName>
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>80 CHAR</dataTypeSize>
+<ownDataTypeParameters>80 CHAR,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="ORDER_PURCHASE_TIMESTAMP" id="EE9FBBB7-D859-6803-C6FD-7DCC2B4AAF3A">
+<sourceConnName>coursIA.stag26.OVH</sourceConnName>
+<sourceObjSchema>ORDERS</sourceObjSchema>
+<sourceObjName>ORDER_PURCHASE_TIMESTAMP</sourceObjName>
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<dataTypeSize>7</dataTypeSize>
+<ownDataTypeParameters>7,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="ORDER_APPROVED_AT" id="B8309E8D-F981-3F62-CCB5-D64FF025F269">
+<sourceConnName>coursIA.stag26.OVH</sourceConnName>
+<sourceObjSchema>ORDERS</sourceObjSchema>
+<sourceObjName>ORDER_APPROVED_AT</sourceObjName>
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<dataTypeSize>7</dataTypeSize>
+<ownDataTypeParameters>7,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="ORDER_DELIVERED_CARRIER_DATE" id="920841EC-DB90-C036-D420-779A5D01C849">
+<sourceConnName>coursIA.stag26.OVH</sourceConnName>
+<sourceObjSchema>ORDERS</sourceObjSchema>
+<sourceObjName>ORDER_DELIVERED_CARRIER_DATE</sourceObjName>
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<dataTypeSize>7</dataTypeSize>
+<ownDataTypeParameters>7,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="ORDER_DELIVERED_CUSTOMER_DATE" id="11D37E2B-E2D4-06C0-E4A0-D1A6FC1D6E45">
+<sourceConnName>coursIA.stag26.OVH</sourceConnName>
+<sourceObjSchema>ORDERS</sourceObjSchema>
+<sourceObjName>ORDER_DELIVERED_CUSTOMER_DATE</sourceObjName>
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<dataTypeSize>7</dataTypeSize>
+<ownDataTypeParameters>7,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="ORDER_ESTIMATED_DELIVERY_DATE" id="B5A94FD7-F3EE-2FD5-3327-61146F59233F">
+<sourceConnName>coursIA.stag26.OVH</sourceConnName>
+<sourceObjSchema>ORDERS</sourceObjSchema>
+<sourceObjName>ORDER_ESTIMATED_DELIVERY_DATE</sourceObjName>
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<dataTypeSize>7</dataTypeSize>
+<ownDataTypeParameters>7,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="9D3CAEC5-F2C6-27FB-EDBD-073472879F54" name="ORDERS_PK">
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 09:00:47 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="6325B199-1313-9BEE-7C6F-D2AC16F98A3A"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

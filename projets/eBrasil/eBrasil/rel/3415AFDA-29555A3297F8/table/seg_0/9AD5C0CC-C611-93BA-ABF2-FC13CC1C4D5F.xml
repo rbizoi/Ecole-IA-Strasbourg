@@ -1,0 +1,176 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="9AD5C0CC-C611-93BA-ABF2-FC13CC1C4D5F" schemaObject="3E6F5C63-300E-BB21-C4A5-53F8540274D7" name="PRODUCTS">
+<sourceConnName>coursIA.stag26.OVH</sourceConnName>
+<sourceObjSchema>STAGBI26</sourceObjSchema>
+<sourceObjName>PRODUCTS</sourceObjName>
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="PRODUCT_ID" id="0D4B4ED4-273C-3BD1-B560-BF1D6F77A917">
+<sourceConnName>coursIA.stag26.OVH</sourceConnName>
+<sourceObjSchema>PRODUCTS</sourceObjSchema>
+<sourceObjName>PRODUCT_ID</sourceObjName>
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>80 CHAR</dataTypeSize>
+<ownDataTypeParameters>80 CHAR,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="PRODUCT_CATEGORY_NAME" id="32980CF0-2A5F-D8F7-E0F0-D4BB7EF9B45B">
+<sourceConnName>coursIA.stag26.OVH</sourceConnName>
+<sourceObjSchema>PRODUCTS</sourceObjSchema>
+<sourceObjName>PRODUCT_CATEGORY_NAME</sourceObjName>
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>80 CHAR</dataTypeSize>
+<ownDataTypeParameters>80 CHAR,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="PRODUCT_NAME_LENGHT" id="631C0B68-481E-9B0A-78AC-944E1FF04D6A">
+<sourceConnName>coursIA.stag26.OVH</sourceConnName>
+<sourceObjSchema>PRODUCTS</sourceObjSchema>
+<sourceObjName>PRODUCT_NAME_LENGHT</sourceObjName>
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT021</logicalDatatype>
+<dataTypePrecision>126</dataTypePrecision>
+<ownDataTypeParameters>,126,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="PRODUCT_DESCRIPTION_LENGHT" id="30130FEF-159C-0FAD-A000-971C8D083DB4">
+<sourceConnName>coursIA.stag26.OVH</sourceConnName>
+<sourceObjSchema>PRODUCTS</sourceObjSchema>
+<sourceObjName>PRODUCT_DESCRIPTION_LENGHT</sourceObjName>
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT021</logicalDatatype>
+<dataTypePrecision>126</dataTypePrecision>
+<ownDataTypeParameters>,126,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="PRODUCT_PHOTOS_QTY" id="CD2B54DD-56AA-DA7A-1788-D7D8B0F0A6F9">
+<sourceConnName>coursIA.stag26.OVH</sourceConnName>
+<sourceObjSchema>PRODUCTS</sourceObjSchema>
+<sourceObjName>PRODUCT_PHOTOS_QTY</sourceObjName>
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT021</logicalDatatype>
+<dataTypePrecision>126</dataTypePrecision>
+<ownDataTypeParameters>,126,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="PRODUCT_WEIGHT_G" id="2C9D06B5-D4E0-D355-3282-C7D8ACABE15B">
+<sourceConnName>coursIA.stag26.OVH</sourceConnName>
+<sourceObjSchema>PRODUCTS</sourceObjSchema>
+<sourceObjName>PRODUCT_WEIGHT_G</sourceObjName>
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT021</logicalDatatype>
+<dataTypePrecision>126</dataTypePrecision>
+<ownDataTypeParameters>,126,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="PRODUCT_LENGTH_CM" id="F36C4FDC-F3F8-2770-64CA-65880D36BF6C">
+<sourceConnName>coursIA.stag26.OVH</sourceConnName>
+<sourceObjSchema>PRODUCTS</sourceObjSchema>
+<sourceObjName>PRODUCT_LENGTH_CM</sourceObjName>
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT021</logicalDatatype>
+<dataTypePrecision>126</dataTypePrecision>
+<ownDataTypeParameters>,126,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="PRODUCT_HEIGHT_CM" id="040AD517-D41A-8DFC-A995-4A7D69C8254D">
+<sourceConnName>coursIA.stag26.OVH</sourceConnName>
+<sourceObjSchema>PRODUCTS</sourceObjSchema>
+<sourceObjName>PRODUCT_HEIGHT_CM</sourceObjName>
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT021</logicalDatatype>
+<dataTypePrecision>126</dataTypePrecision>
+<ownDataTypeParameters>,126,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="PRODUCT_WIDTH_CM" id="8544A741-97DC-E5DA-71E1-9F6AF46703C3">
+<sourceConnName>coursIA.stag26.OVH</sourceConnName>
+<sourceObjSchema>PRODUCTS</sourceObjSchema>
+<sourceObjName>PRODUCT_WIDTH_CM</sourceObjName>
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT021</logicalDatatype>
+<dataTypePrecision>126</dataTypePrecision>
+<ownDataTypeParameters>,126,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="PRODUCT_CATEGORY_NAME_ENGLISH" id="6BEC5CAA-266C-3308-695D-C8308B1623CB">
+<sourceConnName>coursIA.stag26.OVH</sourceConnName>
+<sourceObjSchema>PRODUCTS</sourceObjSchema>
+<sourceObjName>PRODUCT_CATEGORY_NAME_ENGLISH</sourceObjName>
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>80 CHAR</dataTypeSize>
+<ownDataTypeParameters>80 CHAR,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="0514EC88-CA1E-F7A0-7D91-B064319458CC" name="PRODUCTS_PK">
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 09:42:05 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="0D4B4ED4-273C-3BD1-B560-BF1D6F77A917"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

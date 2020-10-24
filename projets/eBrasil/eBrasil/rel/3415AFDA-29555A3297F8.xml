@@ -1,0 +1,15 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<relationalModel class="oracle.dbtools.crest.model.design.relational.RelationalDesign" name="eBrasil" id="3415AFDA-4ED5-C8C3-A478-29555A3297F8" mainViewID="0F361248-DC59-0592-9875-CEC56CF2E25D">
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:49:57 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+<selectedRDBMSSite>79C73AAF-E1A7-E669-7DF0-025EE81A2AFC</selectedRDBMSSite>
+<importConnectionStamps>
+<importConnectionStamp class="oracle.dbtools.crest.imports.DBConnectionStamp">
+<connName>coursIA.stag26.OVH</connName>
+<connUser>stagbi26</connUser>
+<connType>1</connType>
+</importConnectionStamp>
+</importConnectionStamps>
+</relationalModel>

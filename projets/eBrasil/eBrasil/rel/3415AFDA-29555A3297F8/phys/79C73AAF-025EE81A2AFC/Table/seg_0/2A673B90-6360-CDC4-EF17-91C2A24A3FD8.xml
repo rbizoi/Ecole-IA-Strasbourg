@@ -1,0 +1,75 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TableProxyOraclev12c class="oracle.dbtools.crest.model.design.storage.oracle.v12c.TableProxyOraclev12c" name="GEOLOCATION" directorySegmentName="seg_0" id="2A673B90-6360-CDC4-EF17-91C2A24A3FD8">
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+<schemaObject>3E6F5C63-300E-BB21-C4A5-53F8540274D7</schemaObject>
+<logging>YES</logging>
+<partitionedRowMovement>DISABLE</partitionedRowMovement>
+<segment>786CB4EA-11EA-0F6E-749F-3460D81E84A3</segment>
+<tableSpace>10F76E86-EC17-2594-91A0-3AD86350ED7D</tableSpace>
+<temporaryChanged>false</temporaryChanged>
+<accessDriverType>oracle_loader</accessDriverType>
+<rejectLimit></rejectLimit>
+<inMemory>NO</inMemory>
+<columnProxies itemClass="oracle.dbtools.crest.model.design.storage.oracle.v12c.ColumnProxyOraclev12c">
+<ColumnProxy name="LAT_MIN" id="156EFB64-21E4-9C27-3DFF-9B44F5CBB417">
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="LNG_MAX" id="24D25484-5CF5-16BD-D6E9-C366E45E4631">
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="LAT_MAX" id="847B85E9-F356-60D4-8FED-102A5B124057">
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="GEOLOCATION_CITY" id="932086F1-1402-7893-E21C-6CF9BBE7C08A">
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="LNG_MEAN" id="AE631045-D3E3-5C33-4C24-85B8186AEEBA">
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="LAT_MEAN" id="AEFC8001-45D4-6A32-6F80-E760B798CF23">
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="NOM_ETAT" id="BF9E591E-92FE-8EDD-9E2F-9AEC2D340A1C">
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="GEOLOCATION_STATE" id="C2B1A9B5-CA26-E25A-718F-DB6AF5EB3872">
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="GEOLOCATION_ZIP_CODE_PREFIX" id="C83A9E85-A78B-EA87-A599-AB74EFFC7142">
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="LNG_MIN" id="FCF199C2-D065-2BFC-EC07-C68CAD912525">
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 08:50:27 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+</ColumnProxy>
+</columnProxies>
+<primaryKeys>
+<PrimaryKey class="oracle.dbtools.crest.model.design.storage.oracle.v10g.PKProxyOraclev10g" name="GEOLOCATION_PK" id="13395270-5B72-6E42-9BC7-D3C71D28A436">
+<createdBy>Razvan BIZOÏ</createdBy>
+<createdTime>2020-10-24 09:41:56 UTC</createdTime>
+<ownerDesignName>eBrasil</ownerDesignName>
+<indexSort>SORTED</indexSort>
+</PrimaryKey>
+</primaryKeys>
+</TableProxyOraclev12c>
