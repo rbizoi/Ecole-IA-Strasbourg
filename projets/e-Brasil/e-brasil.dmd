@@ -1,8 +1,0 @@
-<?xml version = '1.0' encoding = 'UTF-8'?>
-<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="e-brasil" id="C73D04A6-2C87-575A-3185-5263B4FACB4F" version="3.5">
-<createdBy>Razvan BIZOÏ</createdBy>
-<createdTime>2020-10-24 08:49:56 UTC</createdTime>
-<ownerDesignName>e-brasil</ownerDesignName>
-<capitalNames>false</capitalNames>
-<designId>C73D04A6-2C87-575A-3185-5263B4FACB4F</designId>
-</OSDM_Design>
